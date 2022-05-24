@@ -1,2 +1,2 @@
-# m5coding-assignment-beruela.github.io
-MODULE 5 CODING ASSIGNMENT 
+# module5-solution
+Module 5 Coding Assignment
